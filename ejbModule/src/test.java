@@ -2,5 +2,5 @@ package src;
 
 public @interface test {
 	//Edit by Tony
-	public int sum2();
+	public int sum3();
 }
